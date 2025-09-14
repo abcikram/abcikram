@@ -55,8 +55,7 @@ A secure authentication system with **JWT**, **refresh tokens**, **rate limiting
 ---
 
 ## 📈 GitHub Stats
-
-![Bk Roy's GitHub stats](https://github.com/abcikram)
+![Bikram Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ---
 
