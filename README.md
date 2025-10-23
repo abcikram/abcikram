@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://img.shields.io/badge/Welcome-Visit%20My%20GitHub-orange)
 
-I'm a **Backend Developer** passionate about building scalable and efficient applications using modern technologies. I love solving problems, learning new tools, and collaborating on open-source projects.
+I'm a Backend Developer (2.5+ years of experience) passionate about designing and developing scalable, high-performance, and reliable systems. I specialize in building microservice-based architectures using modern backend technologies. I love solving complex problems, optimizing performance, and continuously learning to grow as a Software Development Engineer (SDE).
 
 ---
 
@@ -10,9 +10,10 @@ I'm a **Backend Developer** passionate about building scalable and efficient app
 
 - 🔭 I’m currently working on **Node.js, TypeScript, MongoDB, and Microservices architecture**
 - 🌱 I’m learning **Docker, Kubernetes, and event-driven systems using Kafka**
-- 👨‍💻 I enjoy contributing to open-source and solving real-world challenges
+- ⚙️ Implementing event-driven communication using Kafka for scalability and resilience
+- 🧩 Passionate about problem solving, data structures & algorithms, and clean code principles
 
-- ⚙️ Tech Stack: **Node.js | Express | TypeScript | Javascript | MongoDB | Redis | Kafka | Docker | AWS | GraphQL**
+- ⚙️ Tech Stack: **Node.js | Express | TypeScript | Javascript | MongoDB | Redis | Kafka | Docker | AWS | GraphQL | Git**
 
 ---
 
@@ -29,6 +30,14 @@ I'm a **Backend Developer** passionate about building scalable and efficient app
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DD0031?logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=postman&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-FF6C37?logo=cloudflare&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-4285F4?logo=leetcode&logoColor=white)
+
+
 
 ### DevOps
 
@@ -51,11 +60,6 @@ A microservices architecture for an online store with **Redis caching**, **Mongo
 ### 📌 [Authentication Service](https://github.com/yourusername/auth-service)
 
 A secure authentication system with **JWT**, **refresh tokens**, **rate limiting**, and **RBAC** for managing multi-device sessions.
-
----
-
-## 📈 GitHub Stats
-![Bikram Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ---
 
