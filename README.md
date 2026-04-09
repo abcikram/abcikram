@@ -47,22 +47,6 @@ I'm a Backend Developer (2.5+ years of experience) passionate about designing an
 
 ---
 
-## 📂 Featured Projects
-
-### 📌 [Video Conferencing Backend](https://github.com/yourusername/video-conferencing-backend)
-
-A scalable backend built using **Node.js, Express, Kafka**, and **Docker** for high-concurrency video conferencing applications.
-
-### 📌 [E-commerce Microservices](https://github.com/yourusername/e-commerce-microservices)
-
-A microservices architecture for an online store with **Redis caching**, **MongoDB**, and **REST APIs**, optimized for performance and scalability.
-
-### 📌 [Authentication Service](https://github.com/yourusername/auth-service)
-
-A secure authentication system with **JWT**, **refresh tokens**, **rate limiting**, and **RBAC** for managing multi-device sessions.
-
----
-
 ## 📫 Contact Me
 
 Feel free to connect with me via:
