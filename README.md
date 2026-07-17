@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://img.shields.io/badge/Welcome-Visit%20My%20GitHub-orange)
 
-I'm a Backend Developer (2.5+ years of experience) passionate about designing and developing scalable, high-performance, and reliable systems. I specialize in building microservice-based architectures using modern backend technologies. I love solving complex problems, optimizing performance, and continuously learning to grow as a Software Development Engineer (SDE).
+I'm a Backend Developer (3+ years of experience) passionate about designing and developing scalable, high-performance, and reliable systems. I specialize in building microservice-based architectures using modern backend technologies. I love solving complex problems, optimizing performance, and continuously learning to grow as a Software Development Engineer (SDE).
 
 ---
 
